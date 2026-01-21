@@ -1,8 +1,6 @@
-Hand Controlled Robotic Arm
+## Hand Controlled Robotic Arm
 
 Hand Controlled Robotic Arm is a 3D printed robotic arm prototype, where the aim was to create a multifunctional and versatile robot arm that can either be controlled with a glove controller or operate autonomously. Made for undergraduate final year project.
-
-<img src="Arm_Photos/IMG_4085.png"  height="300">
 
 ---
 
@@ -13,6 +11,8 @@ Hand Controlled Robotic Arm is a 3D printed robotic arm prototype, where the aim
 - Arduino to arduino communication using bluetooth
 - Multiple strength modes
 - Fully 3D printable arm design
+
+<img src="Arm_Photos/IMG_4085.png"  height="300">
 
 ---
 
