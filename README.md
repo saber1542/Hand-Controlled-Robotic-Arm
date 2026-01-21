@@ -35,7 +35,7 @@ Hand Controlled Robotic Arm is a 3D printed robotic arm prototype, where the aim
 | 9V Battery w/Clip                     |   1    | £3.5         | - |
 | M3 Screws                             |   1    | £2         | - |
 | Arduino HC-05                         |   2    | £8         | [Example](https://thepihut.com/products/hc-05-bluetooth-module) |
-| PLA Filament (for 3D printing)        |   1    | £10        | [Example](https://www.amazon.co.uk/s?k=pla+filament) |
+| PLA Filament                          |   1    | £10        | [Example](https://www.amazon.co.uk/s?k=pla+filament) |
 | Glove                                 |   1    | £2         | - |
 | Wires                                 |   50    | £2         | - |
 ---
